@@ -1,0 +1,2411 @@
+{
+    "name": "instance_benchmark67",
+    "speed": {
+        "value": 48.2803,
+        "unit": "km/h"
+    },
+    "nb_employees": 26,
+    "nb_tasks": 176,
+    "employees": {
+        "Fannie Patel": {
+            "location": {
+                "x": 173.37482255672995,
+                "y": 195.32645367789166
+            },
+            "availability": {
+                "start_time": "08:00",
+                "end_time": "16:30"
+            },
+            "skill level": 3
+        },
+        "Norma Davies": {
+            "location": {
+                "x": 137.1968957890976,
+                "y": 191.74130685300108
+            },
+            "availability": {
+                "start_time": "08:30",
+                "end_time": "17:00"
+            },
+            "skill level": 3
+        },
+        "Ebony Blackwell": {
+            "location": {
+                "x": 171.169478976831,
+                "y": 178.73049968125733
+            },
+            "availability": {
+                "start_time": "08:00",
+                "end_time": "17:00"
+            },
+            "skill level": 1
+        },
+        "Seren Roth": {
+            "location": {
+                "x": 164.30179294111167,
+                "y": 193.61838840970944
+            },
+            "availability": {
+                "start_time": "08:30",
+                "end_time": "17:00"
+            },
+            "skill level": 1
+        },
+        "Jude Downs": {
+            "location": {
+                "x": 132.68572496694992,
+                "y": 209.50447399461964
+            },
+            "availability": {
+                "start_time": "08:30",
+                "end_time": "17:00"
+            },
+            "skill level": 2
+        },
+        "Lincoln Tanner": {
+            "location": {
+                "x": 148.14717007982932,
+                "y": 154.87095949141235
+            },
+            "availability": {
+                "start_time": "08:00",
+                "end_time": "16:30"
+            },
+            "skill level": 2
+        },
+        "Yuvraj Knight": {
+            "location": {
+                "x": 179.45870597846505,
+                "y": 193.70967944447546
+            },
+            "availability": {
+                "start_time": "08:30",
+                "end_time": "17:00"
+            },
+            "skill level": 3
+        },
+        "Ella-Louise Dejesus": {
+            "location": {
+                "x": 45.39778186767467,
+                "y": 340.51956273118975
+            },
+            "availability": {
+                "start_time": "08:00",
+                "end_time": "17:00"
+            },
+            "skill level": 1
+        },
+        "Aayan Mcguire": {
+            "location": {
+                "x": 173.307437461689,
+                "y": 196.95912878579531
+            },
+            "availability": {
+                "start_time": "08:30",
+                "end_time": "17:00"
+            },
+            "skill level": 1
+        },
+        "Samir Graham": {
+            "location": {
+                "x": 167.7509986481357,
+                "y": 194.83285939850876
+            },
+            "availability": {
+                "start_time": "08:30",
+                "end_time": "17:00"
+            },
+            "skill level": 1
+        },
+        "Melissa Paul": {
+            "location": {
+                "x": 138.83946446564,
+                "y": 187.46096934674637
+            },
+            "availability": {
+                "start_time": "08:30",
+                "end_time": "17:00"
+            },
+            "skill level": 1
+        },
+        "Uzair Nunez": {
+            "location": {
+                "x": 217.38130110197952,
+                "y": 202.08643804831547
+            },
+            "availability": {
+                "start_time": "08:00",
+                "end_time": "16:30"
+            },
+            "skill level": 3
+        },
+        "Aliya Rios": {
+            "location": {
+                "x": 0.0,
+                "y": 324.5051581985841
+            },
+            "availability": {
+                "start_time": "08:30",
+                "end_time": "17:00"
+            },
+            "skill level": 2
+        },
+        "Lottie Yang": {
+            "location": {
+                "x": 162.8376139271715,
+                "y": 192.97657129310073
+            },
+            "availability": {
+                "start_time": "08:30",
+                "end_time": "17:00"
+            },
+            "skill level": 1
+        },
+        "Jaden Williamson": {
+            "location": {
+                "x": 219.92121763451877,
+                "y": 205.54415548724052
+            },
+            "availability": {
+                "start_time": "08:00",
+                "end_time": "16:30"
+            },
+            "skill level": 2
+        },
+        "Ismael Mcdowell": {
+            "location": {
+                "x": 170.75568463791976,
+                "y": 194.9224825093787
+            },
+            "availability": {
+                "start_time": "08:30",
+                "end_time": "17:00"
+            },
+            "skill level": 4
+        },
+        "Kimberly Hoffman": {
+            "location": {
+                "x": 185.0990600478596,
+                "y": 194.7891597923326
+            },
+            "availability": {
+                "start_time": "08:00",
+                "end_time": "17:00"
+            },
+            "skill level": 3
+        },
+        "Kobe Pearson": {
+            "location": {
+                "x": 172.29652722213143,
+                "y": 198.02482096275514
+            },
+            "availability": {
+                "start_time": "08:30",
+                "end_time": "17:00"
+            },
+            "skill level": 3
+        },
+        "Rahul Collins": {
+            "location": {
+                "x": 189.6031423844026,
+                "y": 197.24901395958204
+            },
+            "availability": {
+                "start_time": "08:30",
+                "end_time": "17:00"
+            },
+            "skill level": 3
+        },
+        "Szymon Bennett": {
+            "location": {
+                "x": 210.36556311378348,
+                "y": 0.0
+            },
+            "availability": {
+                "start_time": "08:00",
+                "end_time": "16:30"
+            },
+            "skill level": 1
+        },
+        "Talha Potts": {
+            "location": {
+                "x": 174.37464615491882,
+                "y": 196.75719879901334
+            },
+            "availability": {
+                "start_time": "08:30",
+                "end_time": "17:00"
+            },
+            "skill level": 3
+        },
+        "Keira Murray": {
+            "location": {
+                "x": 177.67657841421422,
+                "y": 195.36025693557784
+            },
+            "availability": {
+                "start_time": "08:30",
+                "end_time": "17:00"
+            },
+            "skill level": 2
+        },
+        "Asiya Johns": {
+            "location": {
+                "x": 261.0819258917097,
+                "y": 219.34033242589987
+            },
+            "availability": {
+                "start_time": "08:00",
+                "end_time": "17:00"
+            },
+            "skill level": 1
+        },
+        "Rehan Walls": {
+            "location": {
+                "x": 141.41053980182173,
+                "y": 154.6653600720586
+            },
+            "availability": {
+                "start_time": "08:00",
+                "end_time": "17:00"
+            },
+            "skill level": 1
+        },
+        "Samia Woodard": {
+            "location": {
+                "x": 221.45913532262375,
+                "y": 171.48159121837148
+            },
+            "availability": {
+                "start_time": "08:00",
+                "end_time": "17:00"
+            },
+            "skill level": 3
+        },
+        "Gertrude Galvan": {
+            "location": {
+                "x": 147.57422519284157,
+                "y": 187.53091095561496
+            },
+            "availability": {
+                "start_time": "08:30",
+                "end_time": "17:00"
+            },
+            "skill level": 2
+        }
+    },
+    "tasks": {
+        "T1": {
+            "location": {
+                "x": 161.50342991800682,
+                "y": 162.31830642039625
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T2": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T3": {
+            "location": {
+                "x": 216.39837655108704,
+                "y": 207.37677019276353
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T4": {
+            "location": {
+                "x": 231.62770355883848,
+                "y": 183.85249382627336
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T5": {
+            "location": {
+                "x": 139.0931860439955,
+                "y": 178.38039133521661
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T6": {
+            "location": {
+                "x": 167.0105621457716,
+                "y": 117.86185198088322
+            },
+            "duration": 30,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T7": {
+            "location": {
+                "x": 139.64569546657333,
+                "y": 178.4969013793623
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T8": {
+            "location": {
+                "x": 26.197162246014354,
+                "y": 338.2143918245905
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T9": {
+            "location": {
+                "x": 139.64569546657333,
+                "y": 178.4969013793623
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T10": {
+            "location": {
+                "x": 214.92195787606295,
+                "y": 182.56357783407287
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T11": {
+            "location": {
+                "x": 232.1147374841831,
+                "y": 184.72211598907572
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T12": {
+            "location": {
+                "x": 219.84508634205775,
+                "y": 161.0842873634848
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T13": {
+            "location": {
+                "x": 240.7918569004033,
+                "y": 130.83159486621898
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T14": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T15": {
+            "location": {
+                "x": 214.92195787606295,
+                "y": 182.56357783407287
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T16": {
+            "location": {
+                "x": 231.30646671197664,
+                "y": 183.56463240017513
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T17": {
+            "location": {
+                "x": 158.29885484653124,
+                "y": 191.45437946429928
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T18": {
+            "location": {
+                "x": 224.78179488517463,
+                "y": 168.27034845383767
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T19": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T20": {
+            "location": {
+                "x": 28.5824762679081,
+                "y": 340.6775596000553
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T21": {
+            "location": {
+                "x": 149.69765387548574,
+                "y": 119.71921867707606
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T22": {
+            "location": {
+                "x": 151.6402158144219,
+                "y": 97.80388842115164
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T23": {
+            "location": {
+                "x": 240.7918569004033,
+                "y": 130.83159486621898
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T24": {
+            "location": {
+                "x": 152.92882975753994,
+                "y": 155.03578373120013
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T25": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T26": {
+            "location": {
+                "x": 232.1147374841831,
+                "y": 184.72211598907572
+            },
+            "duration": 20,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T27": {
+            "location": {
+                "x": 171.2011012493831,
+                "y": 178.30545707415524
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T28": {
+            "location": {
+                "x": 170.99747651321755,
+                "y": 195.11492756894563
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T29": {
+            "location": {
+                "x": 214.31743905191135,
+                "y": 124.95994676475425
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T30": {
+            "location": {
+                "x": 149.9254960551046,
+                "y": 176.88299597503374
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T31": {
+            "location": {
+                "x": 221.67411905578854,
+                "y": 186.12164869429853
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T32": {
+            "location": {
+                "x": 215.18278887051,
+                "y": 190.63523979816935
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T33": {
+            "location": {
+                "x": 214.31743905191135,
+                "y": 124.95994676475425
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T34": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T35": {
+            "location": {
+                "x": 161.50342991800682,
+                "y": 162.31830642039625
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T36": {
+            "location": {
+                "x": 224.78179488517463,
+                "y": 168.27034845383767
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T37": {
+            "location": {
+                "x": 203.04114611764248,
+                "y": 109.02982798888821
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T38": {
+            "location": {
+                "x": 232.1147374841831,
+                "y": 184.72211598907572
+            },
+            "duration": 20,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T39": {
+            "location": {
+                "x": 214.92195787606295,
+                "y": 182.56357783407287
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T40": {
+            "location": {
+                "x": 231.30646671197664,
+                "y": 183.56463240017513
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T41": {
+            "location": {
+                "x": 115.11493915442074,
+                "y": 197.17300110771959
+            },
+            "duration": 75,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T42": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T43": {
+            "location": {
+                "x": 161.50342991800682,
+                "y": 162.31830642039625
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T44": {
+            "location": {
+                "x": 220.46937613162476,
+                "y": 181.29114092998492
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T45": {
+            "location": {
+                "x": 167.0105621457716,
+                "y": 117.86185198088322
+            },
+            "duration": 33,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T46": {
+            "location": {
+                "x": 214.31743905191135,
+                "y": 124.95994676475425
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T47": {
+            "location": {
+                "x": 232.1147374841831,
+                "y": 184.72211598907572
+            },
+            "duration": 30,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T48": {
+            "location": {
+                "x": 220.58369320658718,
+                "y": 183.90818024554738
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T49": {
+            "location": {
+                "x": 214.31743905191135,
+                "y": 124.95994676475425
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T50": {
+            "location": {
+                "x": 220.35843820338766,
+                "y": 147.21085218980147
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T51": {
+            "location": {
+                "x": 161.50342991800682,
+                "y": 162.31830642039625
+            },
+            "duration": 60,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T52": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T53": {
+            "location": {
+                "x": 148.5753259650333,
+                "y": 154.67158698793884
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T54": {
+            "location": {
+                "x": 151.6402158144219,
+                "y": 97.80388842115164
+            },
+            "duration": 60,
+            "availability": {
+                "start_time": "09:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T55": {
+            "location": {
+                "x": 139.64569546657333,
+                "y": 178.4969013793623
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T56": {
+            "location": {
+                "x": 184.14538953469673,
+                "y": 152.93594537795403
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T57": {
+            "location": {
+                "x": 251.17933779963627,
+                "y": 165.10153767331963
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T58": {
+            "location": {
+                "x": 240.7918569004033,
+                "y": 130.83159486621898
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T59": {
+            "location": {
+                "x": 161.50342991800682,
+                "y": 162.31830642039625
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T60": {
+            "location": {
+                "x": 168.65225122871246,
+                "y": 198.91538113026013
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T61": {
+            "location": {
+                "x": 219.84508634205775,
+                "y": 161.0842873634848
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T62": {
+            "location": {
+                "x": 216.39837655108704,
+                "y": 207.37677019276353
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T63": {
+            "location": {
+                "x": 214.75950361713188,
+                "y": 124.6741980422904
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T64": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T65": {
+            "location": {
+                "x": 191.3015113310104,
+                "y": 198.4287921312672
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T66": {
+            "location": {
+                "x": 214.92195787606295,
+                "y": 182.56357783407287
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T67": {
+            "location": {
+                "x": 161.50342991800682,
+                "y": 162.31830642039625
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T68": {
+            "location": {
+                "x": 168.44378442322426,
+                "y": 195.68056504128802
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T69": {
+            "location": {
+                "x": 177.4242287535888,
+                "y": 195.0183658946314
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T70": {
+            "location": {
+                "x": 224.5935311069539,
+                "y": 167.90989897960543
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T71": {
+            "location": {
+                "x": 232.1147374841831,
+                "y": 184.72211598907572
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T72": {
+            "location": {
+                "x": 175.03470578469415,
+                "y": 195.83775018958056
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T73": {
+            "location": {
+                "x": 214.75950361713188,
+                "y": 124.6741980422904
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T74": {
+            "location": {
+                "x": 219.07420326708032,
+                "y": 187.65260268332992
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T75": {
+            "location": {
+                "x": 132.88042232481766,
+                "y": 180.7901966659786
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T76": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T77": {
+            "location": {
+                "x": 190.67894322429805,
+                "y": 198.2372366311356
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T78": {
+            "location": {
+                "x": 240.7918569004033,
+                "y": 130.83159486621898
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T79": {
+            "location": {
+                "x": 219.07420326708032,
+                "y": 187.65260268332992
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T80": {
+            "location": {
+                "x": 220.35843820338766,
+                "y": 147.21085218980147
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T81": {
+            "location": {
+                "x": 153.5507604396467,
+                "y": 131.97646895045256
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T82": {
+            "location": {
+                "x": 139.64569546657333,
+                "y": 178.4969013793623
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T83": {
+            "location": {
+                "x": 219.07420326708032,
+                "y": 187.65260268332992
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T84": {
+            "location": {
+                "x": 231.62770355883848,
+                "y": 183.85249382627336
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T85": {
+            "location": {
+                "x": 232.1147374841831,
+                "y": 184.72211598907572
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T86": {
+            "location": {
+                "x": 231.28672623231998,
+                "y": 183.62535594960394
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T87": {
+            "location": {
+                "x": 232.1147374841831,
+                "y": 184.72211598907572
+            },
+            "duration": 75,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T88": {
+            "location": {
+                "x": 229.6167575900737,
+                "y": 184.86523497914405
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T89": {
+            "location": {
+                "x": 232.1147374841831,
+                "y": 184.72211598907572
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T90": {
+            "location": {
+                "x": 240.7918569004033,
+                "y": 130.83159486621898
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T91": {
+            "location": {
+                "x": 161.50342991800682,
+                "y": 162.31830642039625
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T92": {
+            "location": {
+                "x": 21.15897216457535,
+                "y": 329.4689108436106
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T93": {
+            "location": {
+                "x": 139.0114349498168,
+                "y": 178.37356396672223
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T94": {
+            "location": {
+                "x": 129.48961085233697,
+                "y": 150.62987379427332
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T95": {
+            "location": {
+                "x": 203.38509092414057,
+                "y": 108.72826734783061
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T96": {
+            "location": {
+                "x": 232.1147374841831,
+                "y": 184.72211598907572
+            },
+            "duration": 40,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T97": {
+            "location": {
+                "x": 232.1147374841831,
+                "y": 184.72211598907572
+            },
+            "duration": 42,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T98": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T99": {
+            "location": {
+                "x": 232.1147374841831,
+                "y": 184.72211598907572
+            },
+            "duration": 40,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T100": {
+            "location": {
+                "x": 28.5824762679081,
+                "y": 340.6775596000553
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T101": {
+            "location": {
+                "x": 161.50342991800682,
+                "y": 162.31830642039625
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T102": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T103": {
+            "location": {
+                "x": 153.5507604396467,
+                "y": 131.97646895045256
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T104": {
+            "location": {
+                "x": 228.7611300684144,
+                "y": 182.47767975322108
+            },
+            "duration": 60,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T105": {
+            "location": {
+                "x": 167.0105621457716,
+                "y": 117.86185198088322
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T106": {
+            "location": {
+                "x": 221.56627992990914,
+                "y": 151.03960485996356
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T107": {
+            "location": {
+                "x": 220.46937613162476,
+                "y": 181.29114092998492
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T108": {
+            "location": {
+                "x": 220.89763435493268,
+                "y": 186.8390227635419
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T109": {
+            "location": {
+                "x": 167.0105621457716,
+                "y": 117.86185198088322
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T110": {
+            "location": {
+                "x": 231.62770355883848,
+                "y": 183.85249382627336
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T111": {
+            "location": {
+                "x": 139.0931860439955,
+                "y": 178.38039133521661
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T112": {
+            "location": {
+                "x": 139.64569546657333,
+                "y": 178.4969013793623
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T113": {
+            "location": {
+                "x": 139.64569546657333,
+                "y": 178.4969013793623
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T114": {
+            "location": {
+                "x": 219.84508634205775,
+                "y": 161.0842873634848
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T115": {
+            "location": {
+                "x": 220.46937613162476,
+                "y": 181.29114092998492
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T116": {
+            "location": {
+                "x": 177.4242287535888,
+                "y": 195.0183658946314
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T117": {
+            "location": {
+                "x": 221.4384062723634,
+                "y": 186.51505634475993
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T118": {
+            "location": {
+                "x": 168.7059123113325,
+                "y": 197.65122824821844
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T119": {
+            "location": {
+                "x": 167.0105621457716,
+                "y": 117.86185198088322
+            },
+            "duration": 30,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T120": {
+            "location": {
+                "x": 169.10148160745558,
+                "y": 198.4873584991252
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T121": {
+            "location": {
+                "x": 42.24053527774173,
+                "y": 310.14277669341726
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T122": {
+            "location": {
+                "x": 224.34809561696235,
+                "y": 168.22333523882685
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T123": {
+            "location": {
+                "x": 167.0105621457716,
+                "y": 117.86185198088322
+            },
+            "duration": 30,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T124": {
+            "location": {
+                "x": 169.10148160745558,
+                "y": 198.4873584991252
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T125": {
+            "location": {
+                "x": 214.22274859205385,
+                "y": 125.07938123546961
+            },
+            "duration": 60,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T126": {
+            "location": {
+                "x": 203.02047683627745,
+                "y": 108.97202886602592
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T127": {
+            "location": {
+                "x": 218.50584250555218,
+                "y": 181.5946474822889
+            },
+            "duration": 60,
+            "availability": {
+                "start_time": "09:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T128": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 30,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T129": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T130": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T131": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T132": {
+            "location": {
+                "x": 240.7918569004033,
+                "y": 130.83159486621898
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T133": {
+            "location": {
+                "x": 221.4384062723634,
+                "y": 186.51505634475993
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T134": {
+            "location": {
+                "x": 214.01549005334002,
+                "y": 125.13601281159825
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T135": {
+            "location": {
+                "x": 215.18278887051,
+                "y": 190.63523979816935
+            },
+            "duration": 60,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T136": {
+            "location": {
+                "x": 240.7918569004033,
+                "y": 130.83159486621898
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T137": {
+            "location": {
+                "x": 161.50342991800682,
+                "y": 162.31830642039625
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T138": {
+            "location": {
+                "x": 219.84508634205775,
+                "y": 161.0842873634848
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T139": {
+            "location": {
+                "x": 214.92195787606295,
+                "y": 182.56357783407287
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T140": {
+            "location": {
+                "x": 148.5753259650333,
+                "y": 154.67158698793884
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T141": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T142": {
+            "location": {
+                "x": 232.1147374841831,
+                "y": 184.72211598907572
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T143": {
+            "location": {
+                "x": 214.66869991688168,
+                "y": 181.33806518903853
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T144": {
+            "location": {
+                "x": 161.50342991800682,
+                "y": 162.31830642039625
+            },
+            "duration": 43,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T145": {
+            "location": {
+                "x": 28.5824762679081,
+                "y": 340.6775596000553
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T146": {
+            "location": {
+                "x": 168.8568044644427,
+                "y": 198.5271106854051
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T147": {
+            "location": {
+                "x": 214.31743905191135,
+                "y": 124.95994676475425
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T148": {
+            "location": {
+                "x": 214.31743905191135,
+                "y": 124.95994676475425
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T149": {
+            "location": {
+                "x": 161.50342991800682,
+                "y": 162.31830642039625
+            },
+            "duration": 22,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T150": {
+            "location": {
+                "x": 224.82905616001457,
+                "y": 167.44134579771003
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T151": {
+            "location": {
+                "x": 231.19426785675807,
+                "y": 183.74614699843818
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T152": {
+            "location": {
+                "x": 219.07420326708032,
+                "y": 187.65260268332992
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "09:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T153": {
+            "location": {
+                "x": 138.93021145385777,
+                "y": 178.9530563269316
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T154": {
+            "location": {
+                "x": 231.30646671197664,
+                "y": 183.56463240017513
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T155": {
+            "location": {
+                "x": 240.7918569004033,
+                "y": 130.83159486621898
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T156": {
+            "location": {
+                "x": 203.04114611764248,
+                "y": 109.02982798888821
+            },
+            "duration": 60,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T157": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 60,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T158": {
+            "location": {
+                "x": 229.6167575900737,
+                "y": 184.86523497914405
+            },
+            "duration": 75,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T159": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T160": {
+            "location": {
+                "x": 168.44378442322426,
+                "y": 195.68056504128802
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T161": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T162": {
+            "location": {
+                "x": 224.1600922041361,
+                "y": 168.489602610188
+            },
+            "duration": 60,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T163": {
+            "location": {
+                "x": 232.1147374841831,
+                "y": 184.72211598907572
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T164": {
+            "location": {
+                "x": 214.22274859205385,
+                "y": 125.07938123546961
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T165": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T166": {
+            "location": {
+                "x": 224.78179488517463,
+                "y": 168.27034845383767
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T167": {
+            "location": {
+                "x": 184.14538953469673,
+                "y": 152.93594537795403
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T168": {
+            "location": {
+                "x": 214.66869991688168,
+                "y": 181.33806518903853
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T169": {
+            "location": {
+                "x": 231.62770355883848,
+                "y": 183.85249382627336
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T170": {
+            "location": {
+                "x": 169.77097269435524,
+                "y": 170.42301551671687
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 3
+        },
+        "T171": {
+            "location": {
+                "x": 175.6244350132439,
+                "y": 195.85899954006717
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T172": {
+            "location": {
+                "x": 220.58369320658718,
+                "y": 183.90818024554738
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 4
+        },
+        "T173": {
+            "location": {
+                "x": 220.58369320658718,
+                "y": 183.90818024554738
+            },
+            "duration": 90,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T174": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 2
+        },
+        "T175": {
+            "location": {
+                "x": 240.7918569004033,
+                "y": 130.83159486621898
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        },
+        "T176": {
+            "location": {
+                "x": 215.25897392125347,
+                "y": 190.69141547512683
+            },
+            "duration": 15,
+            "availability": {
+                "start_time": "07:00",
+                "end_time": "18:00"
+            },
+            "skill level": 1
+        }
+    }
+}
